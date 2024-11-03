@@ -1,3 +1,3 @@
 # JAVA-ATM-
-Understanding the working principle of ATM machine using JAVA
+Understanding the working principle of ATM machine using JAVA Programming
 
